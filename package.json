@@ -4,7 +4,8 @@
   "description": "this is an example how to use cypress",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "cypress:env": "cypress open"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/luisenb/cypress-example/issues"
   },
-  "homepage": "https://github.com/luisenb/cypress-example#readme"
+  "homepage": "https://github.com/luisenb/cypress-example#readme",
+  "devDependencies": {
+    "cypress": "^13.11.0"
+  }
 }
