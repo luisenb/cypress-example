@@ -1,0 +1,19 @@
+{
+  "name": "cypress-example",
+  "version": "1.0.0",
+  "description": "this is an example how to use cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/luisenb/cypress-example.git"
+  },
+  "author": "Luis Barrientos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisenb/cypress-example/issues"
+  },
+  "homepage": "https://github.com/luisenb/cypress-example#readme"
+}
